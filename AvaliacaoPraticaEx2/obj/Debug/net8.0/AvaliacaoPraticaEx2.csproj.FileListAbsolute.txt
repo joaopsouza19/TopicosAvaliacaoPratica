@@ -1,0 +1,14 @@
+D:\Prova Topicos\AvaliacaoPraticaEx2\bin\Debug\net8.0\AvaliacaoPraticaEx2.exe
+D:\Prova Topicos\AvaliacaoPraticaEx2\bin\Debug\net8.0\AvaliacaoPraticaEx2.deps.json
+D:\Prova Topicos\AvaliacaoPraticaEx2\bin\Debug\net8.0\AvaliacaoPraticaEx2.runtimeconfig.json
+D:\Prova Topicos\AvaliacaoPraticaEx2\bin\Debug\net8.0\AvaliacaoPraticaEx2.dll
+D:\Prova Topicos\AvaliacaoPraticaEx2\bin\Debug\net8.0\AvaliacaoPraticaEx2.pdb
+D:\Prova Topicos\AvaliacaoPraticaEx2\obj\Debug\net8.0\AvaliacaoPraticaEx2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Prova Topicos\AvaliacaoPraticaEx2\obj\Debug\net8.0\AvaliacaoPraticaEx2.AssemblyInfoInputs.cache
+D:\Prova Topicos\AvaliacaoPraticaEx2\obj\Debug\net8.0\AvaliacaoPraticaEx2.AssemblyInfo.cs
+D:\Prova Topicos\AvaliacaoPraticaEx2\obj\Debug\net8.0\AvaliacaoPraticaEx2.csproj.CoreCompileInputs.cache
+D:\Prova Topicos\AvaliacaoPraticaEx2\obj\Debug\net8.0\AvaliacaoPraticaEx2.dll
+D:\Prova Topicos\AvaliacaoPraticaEx2\obj\Debug\net8.0\refint\AvaliacaoPraticaEx2.dll
+D:\Prova Topicos\AvaliacaoPraticaEx2\obj\Debug\net8.0\AvaliacaoPraticaEx2.pdb
+D:\Prova Topicos\AvaliacaoPraticaEx2\obj\Debug\net8.0\AvaliacaoPraticaEx2.genruntimeconfig.cache
+D:\Prova Topicos\AvaliacaoPraticaEx2\obj\Debug\net8.0\ref\AvaliacaoPraticaEx2.dll

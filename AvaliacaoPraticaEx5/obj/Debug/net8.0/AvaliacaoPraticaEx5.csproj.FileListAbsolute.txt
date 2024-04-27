@@ -1,0 +1,14 @@
+D:\Prova Topicos\AvaliacaoPraticaEx5\obj\Debug\net8.0\AvaliacaoPraticaEx5.GeneratedMSBuildEditorConfig.editorconfig
+D:\Prova Topicos\AvaliacaoPraticaEx5\obj\Debug\net8.0\AvaliacaoPraticaEx5.AssemblyInfoInputs.cache
+D:\Prova Topicos\AvaliacaoPraticaEx5\obj\Debug\net8.0\AvaliacaoPraticaEx5.AssemblyInfo.cs
+D:\Prova Topicos\AvaliacaoPraticaEx5\obj\Debug\net8.0\AvaliacaoPraticaEx5.csproj.CoreCompileInputs.cache
+D:\Prova Topicos\AvaliacaoPraticaEx5\bin\Debug\net8.0\AvaliacaoPraticaEx5.exe
+D:\Prova Topicos\AvaliacaoPraticaEx5\bin\Debug\net8.0\AvaliacaoPraticaEx5.deps.json
+D:\Prova Topicos\AvaliacaoPraticaEx5\bin\Debug\net8.0\AvaliacaoPraticaEx5.runtimeconfig.json
+D:\Prova Topicos\AvaliacaoPraticaEx5\bin\Debug\net8.0\AvaliacaoPraticaEx5.dll
+D:\Prova Topicos\AvaliacaoPraticaEx5\bin\Debug\net8.0\AvaliacaoPraticaEx5.pdb
+D:\Prova Topicos\AvaliacaoPraticaEx5\obj\Debug\net8.0\AvaliacaoPraticaEx5.dll
+D:\Prova Topicos\AvaliacaoPraticaEx5\obj\Debug\net8.0\refint\AvaliacaoPraticaEx5.dll
+D:\Prova Topicos\AvaliacaoPraticaEx5\obj\Debug\net8.0\AvaliacaoPraticaEx5.pdb
+D:\Prova Topicos\AvaliacaoPraticaEx5\obj\Debug\net8.0\AvaliacaoPraticaEx5.genruntimeconfig.cache
+D:\Prova Topicos\AvaliacaoPraticaEx5\obj\Debug\net8.0\ref\AvaliacaoPraticaEx5.dll
